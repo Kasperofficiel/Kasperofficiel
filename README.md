@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Kasperofficiel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 📦 Patch Note - 06/04/2025
 
-<!---
-Kasperofficiel/Kasperofficiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✅ Corrections
+- 📞 Téléphone réparé
+- 📻 Radio entièrement fonctionnelle (YouTool inclus)
+- 🧑‍💼 Affichage du job "En service" corrigé sur le téléphone
+- 🔫 Prix ajustés chez Ammunation
+- 🛍 Révision de certains prix dans les shops
+
+## ✨ Nouveautés
+- 💼 Tablet Boss ➜ *Disponible au prochain reboot*
+- 🛡️ USMS complètement opérationnel :
+  - 🚗 Garage
+  - 🗃️ Armurerie
+  - 🔐 Systèmes internes
+- 🔓 Casier de police désormais **public**
+
+## ⚙️ Optimisations
+- 🚀 Amélioration générale des performances serveur
+- 💰 Ajustement global des prix pour équilibrage
+
+---
+
+🛠️ *Déployé par* **𝓬𝓪𝓻𝓵𝓸**  
+Merci pour votre support continu ! Remontez vos bugs via `#bugs` et vos idées via `#suggestions`.
